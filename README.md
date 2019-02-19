@@ -7,7 +7,12 @@ The goal of this repository is to contain the concepts I learned in numerical op
 
 ### 3. Strong Wolfe Conditions
 
-### 4. Conjugate Gradient
+### 4. Trust Region Methods
 
-### 5. BFGS descent
+### 5. Conjugate Gradient
 
+### 6. BFGS
+
+### Project: ROF Dual minimization of Total Variation Denoising
+
+### Extension: Finite Differencing + Auto differentiation, nonlinear least squares and more
